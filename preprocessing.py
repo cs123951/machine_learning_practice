@@ -3,6 +3,8 @@ import numpy as np
 import itertools
 import nltk
 
+
+
 def getSentenceData(path, vocabulary_size=8000):
     unknown_token = "UNKNOWN_TOKEN"
     sentence_start_token = "SENTENCE_START"
