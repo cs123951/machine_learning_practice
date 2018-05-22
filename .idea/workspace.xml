@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1c4a19d-c841-4b39-8212-7225d7705ba8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Admin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RNN_add.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/RNN-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/RNN-checkpoint.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RNN.ipynb" afterPath="$PROJECT_DIR$/RNN.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/preprocessing.py" afterPath="$PROJECT_DIR$/preprocessing.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/readme.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,7 +42,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="1960" />
     <option name="y" value="29" />
     <option name="width" value="1789" />
@@ -186,7 +183,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1960" y="29" width="1789" height="1030" extended-state="0" />
+    <frame x="1960" y="29" width="1789" height="1030" extended-state="1" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -262,6 +259,13 @@
         <state relative-caret-position="654">
           <caret line="195" column="15" lean-forward="true" selection-start-line="195" selection-start-column="15" selection-end-line="195" selection-end-column="15" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RNN.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
         </state>
       </provider>
     </entry>
